@@ -6,7 +6,7 @@ I love diving into ecosystem performance, state management, and clean database a
 * **Languages:** JavaScript, TypeScript, Go, SQL
 * **Backend:** Node.js, Express, PostgreSQL
 * **Frontend:** React, Next.js, HTML5, CSS3, Tailwind
-* **Tools/Environment:** Git, VS Code, NeoVim, Linux 
+* **Tools/Environment:** Git, Docker, VS Code, NeoVim, Linux 
 
   
 ### Get in touch
